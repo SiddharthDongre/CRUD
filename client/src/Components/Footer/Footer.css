@@ -1,0 +1,14 @@
+#footer {
+
+    background-color: lightblue;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+}
+
+.ft-hd {
+
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
