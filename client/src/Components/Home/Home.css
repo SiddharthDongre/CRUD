@@ -1,0 +1,59 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Home > Fome */
+
+#home-form {
+  text-align: center;
+}
+
+#home-form input {
+  height: 30px;
+  width: 250px;
+  border: 1px solid black;
+  background-color: transparent;
+  outline: none;
+  font-size: 23px;
+  padding: 5px;
+  margin: 10px;
+}
+
+#home-form button {
+  height: 43px;
+  width: 100px;
+  background-color: lightseagreen;
+  color: white;
+  border: 1px solid white;
+  font-size: 23px;
+  padding: 5px 0px 5px 0px;
+  cursor: pointer;
+}
+
+
+/* Home > Table */
+
+#home-table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#home-table th, td {
+  border: 1px solid black;
+  padding: 7px 23px;
+  font-size: 25px;
+}
+
+#home-table button {
+  height: 35px;
+  width: 75px;
+  background-color: lightseagreen;
+  color: white;
+  border: 1px solid white;
+  font-size: 20px;
+  padding: 5px 0px 5px 0px;
+  cursor: pointer;
+}

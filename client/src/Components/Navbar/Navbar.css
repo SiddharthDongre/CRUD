@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#navbar {
+  /* border: 1px solid black; */
+  text-align: center;
+  background-color: lightseagreen;
+
+  position: sticky;
+  top: 0px;
+}
+
+.navbar-head {
+  color: lightblue;
+  font-size: 30px;
+  padding: 5px 0px 5px 0px;
+}
